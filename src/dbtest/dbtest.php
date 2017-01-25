@@ -1,9 +1,14 @@
 <?php
-
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+//{{{ dbtest.php
+/*
+ * The root file for the dbtest project
+ * 
+ * @author Matt Ritchie <mritchi at yahoo dot com>
+ * @copyright 2017 
+ * @license http://opensource.org/licenses/BSD-3-ClauseNew BSD License
+ * @package marzlib
+ * @category PHP
+ * @subpackage filelib
+ * @todo
  */
-
 namespace dbtest;
