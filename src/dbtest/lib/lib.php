@@ -1,8 +1,6 @@
 <?php
-
-
 /*
- * Trait for get ancestors method for marzlib
+ * The basic library namespace for all the marzworld library groups
  * 
  * @author Matt Ritchie <mritchi at yahoo dot com>
  * @copyright 2017 
